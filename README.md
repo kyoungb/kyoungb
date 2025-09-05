@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey what's up! 
+## - 🔭 I’m currently learning how to use machine learning to simplify large data tasks 
+## - 🤔 I'm looking for help developing my coding skills, specifically Python
+## - 📫 How to reach me: kyoungb@byu.edu
 
 <!--
 **kyoungb/kyoungb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
