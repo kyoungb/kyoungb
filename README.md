@@ -1,4 +1,4 @@
-## Hey what's up! 
+## Hey what's up 👋
 - 🔭 I’m currently learning how to use machine learning to simplify large data tasks 
 - 🤔 I'm looking for help developing my coding skills, specifically Python
 - 📫 How to reach me: kyoungb@byu.edu
