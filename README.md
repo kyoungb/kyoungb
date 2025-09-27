@@ -1,6 +1,6 @@
 ## Hey what's up 👋
 - 🔭 I’m currently learning how to use machine learning to simplify large data tasks 
-- 🤔 I'm looking for help developing my coding skills, specifically Python
+- 🤔 I'm working on refining AI models and machine learning algorithms using Python 
 - 📫 How to reach me: kyoungb@byu.edu
 
 <!--
