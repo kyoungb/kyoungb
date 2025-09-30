@@ -1,7 +1,10 @@
 ## Hey what's up 👋
-- 🔭 I’m currently learning how to use machine learning to simplify large data tasks 
+- 🔭 I’m currently learning how to use machine learning to simplify large data tasks
+- 💬 Check out [my newest website](https://kyoungb.github.io/github_pages_template/) that displays my most recent projects!
+- 🌱 I love working with health-related statistics, as found on my favorite [blog post](https://kyoungb.github.io/github_pages_template/projects/blogpost.html).  
 - 🤔 I'm working on refining AI models and machine learning algorithms using Python 
 - 📫 How to reach me: kyoungb@byu.edu
+  
 
 <!--
 **kyoungb/kyoungb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
